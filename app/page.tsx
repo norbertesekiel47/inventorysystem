@@ -40,12 +40,6 @@ export default async function Home() {
               <span className="relative z-10">Get Started</span>
               <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </Link>
-            <Link
-              href="#features"
-              className="px-8 py-4 bg-white/10 backdrop-blur-md text-white rounded-xl font-bold text-lg border-2 border-white/30 hover:bg-white/20 transition-all duration-300 hover:scale-105"
-            >
-              Explore Features
-            </Link>
           </div>
 
           {/* Feature highlights */}
