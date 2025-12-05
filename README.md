@@ -170,12 +170,6 @@ Your app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Dashboard, Inventory Management, Add Product form, and Analytics charts here to showcase the application.
-
----
-
 ## ☁️ Deployment on Vercel
 
 ### Step 1: Prepare Your Repository
