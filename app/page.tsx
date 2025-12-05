@@ -45,17 +45,14 @@ export default async function Home() {
           {/* Feature highlights */}
           <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
-              <div className="text-4xl mb-4">📊</div>
               <h3 className="text-xl font-bold text-white mb-2">Real-time Analytics</h3>
               <p className="text-purple-200">Track your inventory performance with live dashboards</p>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
-              <div className="text-4xl mb-4">🔔</div>
               <h3 className="text-xl font-bold text-white mb-2">Smart Alerts</h3>
               <p className="text-purple-200">Get notified when stock levels run low</p>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
-              <div className="text-4xl mb-4">⚡</div>
               <h3 className="text-xl font-bold text-white mb-2">Lightning Fast</h3>
               <p className="text-purple-200">Built for speed and efficiency</p>
             </div>
