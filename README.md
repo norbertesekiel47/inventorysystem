@@ -297,14 +297,47 @@ Your Supabase database is already production-ready! Alternatives:
 
 ---
 
-## 🎓 Course & Channel
+## 📱 Application Pages
 
-### Learn More with Pedro Technologies
+### Landing Page
+- Modern glassmorphism design
+- Animated gradient background with blob effects
+- Feature highlights
+- Call-to-action buttons
 
-- 🌐 **Course Website**: [www.webdevultra.com](https://www.webdevultra.com)
-- 📺 **YouTube Channel**: [www.youtube.com/@pedrotechnologies](https://www.youtube.com/@pedrotechnologies)
+### Dashboard
+- Real-time inventory metrics (Total Products, Total Value, Low Stock)
+- Interactive weekly product growth chart
+- Stock health circular progress indicator
+- Recent products list with status indicators
 
-Follow along for more full-stack development tutorials, modern web technologies, and practical coding projects!
+### Inventory Management
+- Searchable product table with pagination
+- Color-coded stock status badges
+- SKU tracking
+- Quick delete functionality
+
+### Add Product
+- Clean, modern form design
+- Input validation with helpful error messages
+- Price input with dollar sign prefix
+- Low stock threshold configuration
+
+---
+
+## 🎯 Key Learning Outcomes
+
+This project demonstrates:
+
+✅ **Full-Stack Development** with Next.js 15 App Router
+✅ **Server Components** and Server Actions for optimal performance
+✅ **Database Design** with Prisma ORM and PostgreSQL
+✅ **Modern Authentication** with Stack Auth
+✅ **Advanced UI/UX** with Tailwind CSS and custom animations
+✅ **Data Visualization** with Recharts library
+✅ **Type Safety** with TypeScript and Zod validation
+✅ **Production Deployment** on Vercel
+✅ **Real-World Application** architecture and best practices
 
 ---
 
@@ -320,12 +353,37 @@ Follow along for more full-stack development tutorials, modern web technologies,
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve InventoryPro:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Happy Coding!** 🚀
+## 🌟 Show Your Support
 
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or banner image suggestions!
+If you found this project helpful, please give it a ⭐️ on GitHub!
+
+---
+
+## 📧 Contact
+
+For questions or feedback:
+- Create an issue in the GitHub repository
+- Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+- Visit my [Portfolio](https://yourportfolio.com)
+
+---
+
+**Built with ❤️ using Next.js 15, React 19, and modern web technologies**
+
+**Happy Coding!** 🚀
